@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "Suç ve Ceza",
+      "desc": "4 MSL",
+      "price": 10.9
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Sefiller",
+      "desc": "Front print and paisley print",
+      "price": 29.45
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "productName": "Deterjan",
+      "desc": "Front print and paisley print",
+      "price": 29.45
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Dijital Kale",
+      "desc": "Front print and paisley print",
+      "price": 29.45
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "productName": "Kayıp Sembol",
+      "desc": "Front print and paisley print",
+      "price": 29.45
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Temizlik Seti",
+      "desc": "Front print and paisley print",
+      "price": 29.45
+    },
+    {
+      "id": 7,
+      "productName": "dfhhfghgfhg",
+      "desc": "qqqqq",
+      "categoryId": 7,
+      "price": "123"
+    },
+    {
+      "id": 8,
+      "productName": "Hede Hodo Seti 1",
+      "categoryId": 2,
+      "desc": "enteresan veriler",
+      "price": "34554"
+    },
+    {
+      "id": 9,
+      "productName": "reterter",
+      "desc": "wertwert",
+      "price": "34535",
+      "categoryId": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "desc": "Sweet and savory sauces relishes spreads and seasonings",
+      "name": "Kitaplar"
+    },
+    {
+      "id": 2,
+      "desc": "Soft drinks coffees teas beers and ales",
+      "name": "Temizlik"
+    },
+    {
+      "id": 3,
+      "desc": "Soft drinks coffees teas beers and ales",
+      "name": "Oyuncak"
+    },
+    {
+      "id": 4,
+      "desc": "Soft drinks coffees teas beers and ales",
+      "name": "Bahçe"
+    },
+    {
+      "id": 5,
+      "desc": "Soft drinks coffees teas beers and ales",
+      "name": "Mobilya"
+    },
+    {
+      "id": 6,
+      "desc": "Soft drinks coffees teas beers and ales",
+      "name": "Mutfak"
+    },
+    {
+      "id": 7,
+      "desc": "Soft drinks coffees teas beers and ales",
+      "name": "Test"
+    },
+    {
+      "id": 8,
+      "desc": "Soft drinks coffees teas beers and ales",
+      "name": "eeeee"
+    }
+  ]
+}
